@@ -1,20 +1,10 @@
 ### Hi there 👋
 
+Nice to meet you! I'm an designer who loves writing code and I currently intern at [Headout](https://www.headout.com). I'm mostly working on front-end technologies, creating interfaces and I adore silky smooth animations.
 
-<iframe src="https://www.siddharthjha.com" width="100%" height="300" style="border:1px solid black;">
-</iframe>
+Here's some of my favorite open-source projects:
 
-<!--
-**clearlysid/clearlysid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. [Jekyll](https://github.com/jekyll/jekyll)
+2. [Anime.js](https://github.com/juliangarnier/anime)
+3. [Swup.js](https://github.com/swup/swup)
+4. [Calibre](https://github.com/kovidgoyal/calibre)
