@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-<iframe src="https://www.siddharthjha.com" height="400"></iframe>
+<iframe src="https://www.siddharthjha.com" width="100%" height="300" style="border:1px solid black;">
+</iframe>
 
 <!--
 **clearlysid/clearlysid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
