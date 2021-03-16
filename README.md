@@ -1,5 +1,7 @@
-### 👋 hi, welcome to the @clearlysid github
+# 👋 hi, welcome to the @clearlysid github
 
-The interaction designer who writes code on occasion. Sometimes it works, most times it doesn't... ...until he figures it out after hours and hours of painful debugging.
+This special breed of interaction designer is often found writing code on occasion.
 
-Will usually be found building things at [Headout](https://www.headout.com).
+Sometimes it works, but most times it doesn't... ...until he figures it out after hours of painful debugging.
+
+This particular dude is currently usually found building things at [Headout](https://www.headout.com).
