@@ -1,10 +1,5 @@
-### Hi there 👋
+### 👋 hi, welcome to the @clearlysid github
 
-Nice to meet you! I'm an designer who loves writing code and I currently intern at [Headout](https://www.headout.com). I'm mostly working on front-end technologies, creating interfaces and I adore silky smooth animations.
+The interaction designer who writes code on occasion. Sometimes it works, most times it doesn't... ...until he figures it out after hours and hours of painful debugging.
 
-Here's some of my favorite open-source projects:
-
-1. [Jekyll](https://github.com/jekyll/jekyll)
-2. [Anime.js](https://github.com/juliangarnier/anime)
-3. [Swup.js](https://github.com/swup/swup)
-4. [Calibre](https://github.com/kovidgoyal/calibre)
+Will usually be found building things at [Headout](https://www.headout.com).
