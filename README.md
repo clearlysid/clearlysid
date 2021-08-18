@@ -1,7 +1,3 @@
-# 👋 hi, welcome to the @clearlysid github
+<img src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" alt="clearly a hacker /s" />
 
-This special breed of interaction designer is often found writing code on occasion.
-
-Sometimes it works, but most times it doesn't... ...until he figures it out after hours of painful debugging.
-
-This particular dude is currently usually found building things at [Headout](https://www.headout.com).
+Building cool toys at [Headout](https://www.headout.com).
